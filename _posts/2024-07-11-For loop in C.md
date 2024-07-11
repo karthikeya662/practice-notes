@@ -11,7 +11,8 @@ The for loop in C language is used to iterate the statements or a part of the pr
 
 #include <stdio.h>
 
-int main() {
+int main() 
+{
     // Example of a for loop in C
     for (int i = 1; i <= 10; i++) {
         printf("%d\n", i);
